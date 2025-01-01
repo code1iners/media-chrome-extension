@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Codia Chrome Extension",
+  "description": "Media download helper",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icons/nestjs-16.png",
+      "48": "icons/nestjs-48.png",
+      "128": "icons/nestjs-128.png"
+    }
+  }
+}
