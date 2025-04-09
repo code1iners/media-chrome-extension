@@ -116,7 +116,6 @@ function App() {
             className='border w-fit min-w-0'
             type='text'
             autoComplete='off'
-            autoFocus
             {...register('filename')}
           />
         </label>
